@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Landing Page - Start Bootstrap Theme</title>
+    <title>HANGARA LIQUORS</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="landingpage\css\bootstrap.min.css" rel="stylesheet">
@@ -43,19 +43,19 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand topnav" href="#">Start Bootstrap</a>
+                <a class="navbar-brand topnav" href="#"></a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="#about">About</a>
+                        <a href="#Nosotros">Nosotros</a>
                     </li>
                     <li>
-                        <a href="#services">Services</a>
+                        <a href="#Servicios">Servicios</a>
                     </li>
                     <li>
-                        <a href="#contact">Contact</a>
+                        <a href="#Contacto">Contacto</a>
                     </li>
                 </ul>
             </div>
@@ -66,27 +66,16 @@
 
 
     <!-- Header -->
-    <a name="about"></a>
+    <a name="Nosotros"></a>
     <div class="intro-header">
         <div class="container">
 
             <div class="row">
                 <div class="col-lg-12">
                     <div class="intro-message">
-                        <h1>Landing Page</h1>
-                        <h3>A Template by Start Bootstrap</h3>
-                        <hr class="intro-divider">
-                        <ul class="list-inline intro-social-buttons">
-                            <li>
-                                <a href="contacto" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">contacto</span></a>
-                            </li>
-                            <li>
-                                <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
-                            </li>
-                            <li>
-                                <a href="#" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
-                            </li>
-                        </ul>
+                        <h1>HANGARA LIQUORS</h1>
+                        <h3>La calidad hecha alcohol</h3>
+   
                     </div>
                 </div>
             </div>
@@ -99,7 +88,7 @@
 
     <!-- Page Content -->
 
-	<a  name="services"></a>
+	<a  name="Servicios"></a>
     <div class="content-section-a">
 
         <div class="container">
@@ -107,11 +96,16 @@
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Death to the Stock Photo:<br>Special Thanks</h2>
-                    <p class="lead">A special thanks to <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a> for providing the photographs that you see in this template. Visit their website to become a member.</p>
+                    <h2 class="section-heading">Nuestra historia</h2>
+                    <p>
+                    HANGARA LIQUORS comenzo alla del 2019 como nuestro primer licor de cafe
+                    despues de experimentar con mezclas,granos,frutas y diversos sabores se logro tener mas
+                    de 20 sabores de licores!!!
+                    </p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="landingpage\img\ipad.jpg" alt="">
+                    <img class="img-responsive" src="landingpage\img\servicios.jpg" alt="">
+                    
                 </div>
             </div>
 
@@ -129,11 +123,21 @@
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">3D Device Mockups<br>by PSDCovers</h2>
-                    <p class="lead">Turn your 2D designs into high quality, 3D product shots in seconds using free Photoshop actions by <a target="_blank" href="http://www.psdcovers.com/">PSDCovers</a>! Visit their website to download some of their awesome, free photoshop actions!</p>
+                    <h2 class="section-heading">Servicios</h2>
+                    <p>
+                        Los servicios que ofrecemos son:
+                        <ul>
+                            <li>Bodas</li>
+                            <li>Fiestas</li>
+                            <li>Reuniones</li>
+                            <li>Eventos de toda ocasion</li>
+                                
+                            
+                        </ul>
+                    </p>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                    <img class="img-responsive" src="landingpage\img\dog.jpg" alt="">
+                    <img class="img-responsive" src="landingpage\img\licoresportada.jpg" alt="">
                 </div>
             </div>
 
@@ -151,11 +155,13 @@
                 <div class="col-lg-5 col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
-                    <h2 class="section-heading">Google Web Fonts and<br>Font Awesome Icons</h2>
-                    <p class="lead">This template features the 'Lato' font, part of the <a target="_blank" href="http://www.google.com/fonts">Google Web Font library</a>, as well as <a target="_blank" href="http://fontawesome.io">icons from Font Awesome</a>.</p>
+                    <h2 class="section-heading">Ubicacion</h2>
+                    <p>Nos ubicamos en Guadalajara Jalisco Mexico por el momento no hacemos envios fuera del estado
+                        de momento solo servicios locales.
+                    </p>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="landingpage\img\phones.jpg" alt="">
+
                 </div>
             </div>
 
@@ -165,25 +171,25 @@
     </div>
     <!-- /.content-section-a -->
 
-	<a  name="contact"></a>
+	<a  name="Contacto"></a>
     <div class="banner">
 
         <div class="container">
 
             <div class="row">
                 <div class="col-lg-6">
-                    <h2>Connect to Start Bootstrap:</h2>
+                    <h2>Contacta con nosotros:</h2>
                 </div>
                 <div class="col-lg-6">
                     <ul class="list-inline banner-social-buttons">
                         <li>
-                            <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
+                        <a href="contacto" class="btn btn-default btn-lg"> <span class="network-name">Contacto</span></a>
                         </li>
                         <li>
-                            <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                            <a href="" class="btn btn-default btn-lg"></i> <span class="network-name">Facebook</span></a>
                         </li>
                         <li>
-                            <a href="#" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
+                            <a href="#" class="btn btn-default btn-lg"></i> <span class="network-name">Instragram</span></a>
                         </li>
                     </ul>
                 </div>

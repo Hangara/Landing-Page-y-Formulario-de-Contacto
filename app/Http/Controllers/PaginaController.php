@@ -22,5 +22,10 @@ class PaginaController extends Controller
         }
         return view('contacto',compact('nombre','correo'));
     }
+
+    public function  recibeFormContacto(Request $request)
+    {
+       dd($request->all());
+    }
 }
 

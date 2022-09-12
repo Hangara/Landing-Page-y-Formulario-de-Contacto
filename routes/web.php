@@ -14,3 +14,4 @@ use Illuminate\Support\Facades\Route;
 */
 Route::get ('/',[PaginaController::class,'landingpage']);
 Route::get ('/contacto/{contacto_id?}',[PaginaController::class,'contacto']);
+Route::post ('/recibe-form-contacto',[PaginaController::class,'recibeFormContacto']);
