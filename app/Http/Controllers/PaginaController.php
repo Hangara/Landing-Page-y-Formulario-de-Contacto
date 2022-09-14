@@ -25,7 +25,7 @@ class PaginaController extends Controller
 
     public function  recibeFormContacto(Request $request)
     {
-       dd($request->all());
+       dd($request);
     }
 }
 
